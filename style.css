@@ -50,7 +50,7 @@ header {
     padding: 1em 0;
     background: url(bg-hero-mobile.svg) no-repeat, hsl(193, 100%, 96%);
     background-size: cover;
-    margin-bottom: 3.25em;
+    margin-bottom: 5em;
 }
 
 .container {
@@ -81,7 +81,7 @@ img {
     padding: .8em 2em;
     border: none;
     border-radius: 2em;
-    box-shadow: 0 0.2em .3em rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0.2em .4em rgba(0, 0, 0, 0.15);
 
 }
 
@@ -163,13 +163,13 @@ section article {
 
 
 footer {
-    padding: 7em 0 3em;
+    padding: 6em 0 2em;
     background-color: hsl(192, 100%, 9%);
 }
 
 
 .flogo {
-    width: 10rem;
+    width: 13rem;
     margin: 3em 0;
 
 }
@@ -274,12 +274,13 @@ footer {
 
     .header-btn {
         width: 15%;
+        padding: 1.125em 0;
     }
 
     .header-text {
         width: 40%;
         text-align: left;
-        margin-top: 5em;
+        margin-top: 6em;
 
     }
 
@@ -301,10 +302,11 @@ footer {
 
     .header-content-btn {
         width: 50%;
+        padding:1.25em 0;
     }
 
     .section-content {
-        padding: 6rem;
+        padding: 5rem;
 
     }
 
@@ -323,14 +325,18 @@ footer {
     }
 
     .build {
-        width: 50%;
+        width: 70%;
         top: 4rem;
         padding: 3em 0;
+        font-size: 1.5rem;
     }
 
     .build button {
         width: 40%;
+        padding: 1.5em 0;
     }
+    footer{
+        padding: 10em 0 3em;
 
         
     .summary {

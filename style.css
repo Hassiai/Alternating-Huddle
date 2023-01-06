@@ -254,8 +254,7 @@ footer {
     .container {
         width: 80%;
     }
-    .header{
-        padding: 2em 0;
+   
 
     main {
         padding: 6em 0;
@@ -269,6 +268,7 @@ footer {
 
     header {
         background: url(bg-hero-desktop.svg), hsl(193, 100%, 96%);
+        padding-bottom:2em;
 
     }
 

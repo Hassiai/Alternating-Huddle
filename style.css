@@ -163,7 +163,7 @@ section article {
 
 
 footer {
-    padding: 3em 0;
+    padding: 6em 0;
     background-color: hsl(192, 100%, 9%);
 }
 
@@ -254,6 +254,8 @@ footer {
     .container {
         width: 80%;
     }
+    .header{
+        padding: 2em 0;
 
     main {
         padding: 6em 0;
@@ -275,7 +277,7 @@ footer {
     }
 
     .header-text {
-        width: 35%;
+        width: 40%;
         text-align: left;
         margin-top: 5em;
 
@@ -330,7 +332,7 @@ footer {
         width: 40%;
     }
 
-
+        
     .summary {
         margin: 0;
         width: 40%;
